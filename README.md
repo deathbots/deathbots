@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @deathbots
 - 👀 I am not as active here in public as I am at work :)
 - 🌱 I’m currently learning go web services using grpc. I have done some rust, lots of python, lots of Go, tiny amounts of front end work, and lots of work in many other scripting / automation languages of this and yester years :)
-- 📫 Find me on twitter.
+- 📫 Find me on mastodon.
